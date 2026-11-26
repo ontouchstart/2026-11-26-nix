@@ -1,0 +1,6 @@
+services:
+  nix:
+    build:
+      context: .
+      dockerfile: nix.dockerfile
+
